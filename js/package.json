@@ -12,6 +12,6 @@
   "dependencies": {
     "micro": "^9.3.4",
     "micro-dev": "^3.0.0",
-    "nodemon": "^1.19.0"
+    "nodemon": "^3.1.14"
   }
 }
